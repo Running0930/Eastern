@@ -1,0 +1,38 @@
+{ 
+    "_id" : ObjectId("60460fd4a657fe7eaeab919c"), 
+    "userId" : 123.0, 
+    "password" : "shuaige", 
+    "phone" : 131211.0, 
+    "name_cn" : "wang", 
+    "name_en" : "shuai", 
+    "idCard" : 123456789.0
+}
+{ 
+    "_id" : ObjectId("60461008a657fe7eaeab919d"), 
+    "userId" : 321.0, 
+    "password" : "meinv", 
+    "phone" : 10202020.0, 
+    "name_cn" : "li", 
+    "name_en" : "mei", 
+    "idCard" : 987654321.0
+}
+{ 
+    "_id" : ObjectId("6046d10c384a1937f0ed0706"), 
+    "phone" : NumberInt(111111), 
+    "password" : "111111", 
+    "idCard" : NumberInt(111111), 
+    "name_cn" : "张三", 
+    "name_en" : "zhangsan", 
+    "userId" : 1615253772565.0, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6046d4b2384a1937f0ed0707"), 
+    "phone" : NumberInt(121212), 
+    "password" : "121212", 
+    "idCard" : NumberInt(121212), 
+    "name_cn" : "帅哥", 
+    "name_en" : "shuaige", 
+    "userId" : 1615254706860.0, 
+    "__v" : NumberInt(0)
+}
